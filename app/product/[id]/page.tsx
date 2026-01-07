@@ -59,6 +59,8 @@ export default function ProductPage({ params }: ProductPageProps) {
       title: "Added to cart",
       description: `${product.name} has been added to your cart.`,
     })
+
+    console.log('added')
   }
 
   return (
