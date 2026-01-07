@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "name": "Classic White Tee",
+    "category": "Tops",
+    "price": 29.99,
+    "description": "Timeless white cotton t-shirt made from premium 100% organic cotton. Perfect for everyday wear with a relaxed fit.",
+    "image": "/tee.avif",
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "colors": ["White", "Cream"]
+  },
+  {
+    "id": "2",
+    "name": "Denim Jacket",
+    "category": "Outerwear",
+    "price": 89.99,
+    "description": "Classic denim jacket with a modern cut. Features button closure and two chest pockets.",
+    "image": "/jacket.avif",
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["Light Blue", "Dark Blue"]
+  },
+  {
+    "id": "3",
+    "name": "Slim Fit Jeans",
+    "category": "Bottoms",
+    "price": 69.99,
+    "description": "Modern slim fit jeans crafted from premium stretch denim for ultimate comfort and style.",
+    "image": "/jeans.webp",
+    "sizes": ["28", "30", "32", "34", "36"],
+    "colors": ["Indigo", "Black"]
+  },
+  {
+    "id": "4",
+    "name": "Knit Sweater",
+    "category": "Tops",
+    "price": 59.99,
+    "description": "Cozy knit sweater perfect for layering. Made from soft merino wool blend.",
+    "image": "/sweater.avif",
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["Beige", "Navy", "Charcoal"]
+  },
+  {
+    "id": "5",
+    "name": "Leather Boots",
+    "category": "Footwear",
+    "price": 149.99,
+    "description": "Handcrafted leather boots with a timeless design. Features cushioned insole and durable rubber sole.",
+    "image": "/boots.avif",
+    "sizes": ["7", "8", "9", "10", "11", "12"],
+    "colors": ["Brown", "Black"]
+  },
+  {
+    "id": "6",
+    "name": "Summer Dress",
+    "category": "Dresses",
+    "price": 79.99,
+    "description": "Flowing summer dress with delicate floral print. Lightweight fabric perfect for warm weather.",
+    "image": "/dress.avif",
+    "sizes": ["XS", "S", "M", "L"],
+    "colors": ["Floral Print", "Solid Cream"]
+  },
+  {
+    "id": "7",
+    "name": "Wool Coat",
+    "category": "Outerwear",
+    "price": 199.99,
+    "description": "Elegant wool coat with a tailored fit. Features notch lapel and double-button closure.",
+    "image": "/coat.webp",
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["Camel", "Black", "Grey"]
+  },
+  {
+    "id": "8",
+    "name": "Linen Pants",
+    "category": "Bottoms",
+    "price": 64.99,
+    "description": "Breathable linen pants with a relaxed fit. Perfect for casual summer days.",
+    "image": "/pants.avif",
+    "sizes": ["28", "30", "32", "34", "36"],
+    "colors": ["Beige", "White", "Olive"]
+  },
+  {
+    "id": "9",
+    "name": "Silk Blouse",
+    "category": "Tops",
+    "price": 89.99,
+    "description": "Luxurious silk blouse with elegant draping. Features button front and subtle sheen.",
+    "image": "/blouse.webp",
+    "sizes": ["XS", "S", "M", "L"],
+    "colors": ["Ivory", "Blush", "Black"]
+  },
+  {
+    "id": "10",
+    "name": "Sneakers",
+    "category": "Footwear",
+    "price": 79.99,
+    "description": "Modern minimalist sneakers with premium leather upper. Comfortable and versatile.",
+    "image": "/sneakers.avif",
+    "sizes": ["6", "7", "8", "9", "10", "11", "12"],
+    "colors": ["White", "Black", "Grey"]
+  },
+  {
+    "id": "11",
+    "name": "Cashmere Scarf",
+    "category": "Accessories",
+    "price": 54.99,
+    "description": "Soft cashmere scarf perfect for adding warmth and style to any outfit.",
+    "image": "/scarf.webp",
+    "sizes": ["One Size"],
+    "colors": ["Grey", "Navy", "Burgundy"]
+  },
+  {
+    "id": "12",
+    "name": "Tailored Blazer",
+    "category": "Outerwear",
+    "price": 129.99,
+    "description": "Sharp tailored blazer with a modern slim fit. Perfect for professional settings.",
+    "image": "/blazer.avif",
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["Navy", "Charcoal", "Black"]
+  }
+]
